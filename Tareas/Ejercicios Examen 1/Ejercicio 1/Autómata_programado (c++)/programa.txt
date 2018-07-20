@@ -1,0 +1,11 @@
+inicio{
+	int variable2 = variable+4;
+	int variable = "dfdf";
+	string nombre;
+	while(variable>variable2)
+	{
+		int x=4;
+		out("hola");
+		nombre = in();
+	}
+}fin
