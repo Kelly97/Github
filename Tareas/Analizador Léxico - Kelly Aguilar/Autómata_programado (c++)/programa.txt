@@ -1,0 +1,23 @@
+inicio{
+	int variable2 = variable+4;
+	int variable3 = 4+4.333;
+	int variable5 = variable-4;
+	int variable6 = variable;
+	int variable = "dfdf";
+	string nombre;
+	while(variable>variable2)
+	{
+		int x=4;
+		if(x==variable && x<20)
+		{
+			out(variable);
+		}else
+		{
+			int h=in();
+		}
+	}
+	for(int i=0;i<30;i=i+1)
+	{
+		int m=in();
+	}
+}fin
